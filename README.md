@@ -27,6 +27,8 @@ Download every file from https://anonymous.4open.science/r/AUB
 ### Dataset
 The dataset is exactly same with the original MNIST data (http://yann.lecun.com/exdb/mnist/)
 
+Just in case the link above does not work, you can download it here: https://drive.google.com/file/d/1E7Jggb1JCn-D7HazQuWlMxIT69vllFRU/view?usp=drive_link.
+
 ``` unzip data.zip```
 
 #### Environment setup
